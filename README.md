@@ -47,8 +47,6 @@ Docker · Git · REST APIs · gRPC · Microservices · Authentication (Keycloak)
 ---
 
 ### 📊 GitHub Stats
-
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanballeh&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanballeh&layout=compact&theme=dark)  
 
 
